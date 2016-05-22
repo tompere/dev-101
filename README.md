@@ -11,7 +11,7 @@
 #### Part #1 - Client-Server
 
 ##### Client
-1. simple clinet e2e flow [ex #1](https://codepen.io/tompere/pen/ONKNRj)
+1. simple clinet e2e flow [ex #1](http://codepen.io/tompere/pen/ONKNRj)
 2. learning new syntax on-demand (haml, es6, scss).
 3. js framework (angular).
 
